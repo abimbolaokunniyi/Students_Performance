@@ -46,7 +46,7 @@ def generate_report(students):
 def main():
     students = [
         {"name": "Shalom", "scores": [70, 80,97,93,99, 90]},
-        {"name": "Sophia", "scores": [60, 75, 88,90,85]},
+        {"name": "Sophia", "scores": [60, 75, 88,94,85]},
     ]
 
     print(" Streaming Scores (via Generator):")
